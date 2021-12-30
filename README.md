@@ -13,8 +13,8 @@ DEFAULT_USER=$(whoami);ZZ
 ```
 
 ### test expressions
-# man 1 test will show you all of them
 ```
+# man 1 test will show you all of them
 [ expression ] 
 # or
 [[ expression ]]
