@@ -9,7 +9,7 @@ add() {
 
 ### interpolation
 ```
-DEFAULT_USER=$(whoami);ZZ
+DEFAULT_USER=$(whoami);
 ```
 
 ### test expressions
