@@ -9,8 +9,8 @@ add() {
 
 ### command substitution
 ```
-IAM=I am $(whoami);
-IAM=I am `whoami`;
+IAM="I am $(whoami)";
+IAM="I am `whoami`";
 ```
 
 ### test expressions
