@@ -7,9 +7,10 @@ add() {
 }
 ```
 
-### interpolation
+### command substitution
 ```
-DEFAULT_USER=$(whoami);
+IAM=I am $(whoami);
+IAM=I am `whoami`;
 ```
 
 ### test expressions
